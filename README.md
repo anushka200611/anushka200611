@@ -22,7 +22,7 @@ Motivated BCA student with hands-on experience in Python, Machine Learning, and 
 - Certified in GenAI Powered Data Analytics Jobs Simulation
 - Certified in Quantitative Research Job Simulation
 - Certified in Data Analytics Job Simulation
-- Star Performer of the Day
+- Star Performer of the Day at Younity
 - GenAI Exchange Hackathon – Google Cloud Powered
 
 ## Projects
